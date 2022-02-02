@@ -1,4 +1,4 @@
-package com.examSpring.springexamprojet;
+package com.springexamprojet;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
